@@ -1,0 +1,38 @@
+808：
+3D场景碰撞体处理工具+加载
+ARKit 脸捕 头部转动 CC3等美术资源BlendShape处理（规范+工具）
+出牌动作IK
+
+ARChat：
+3D场景角色动作 IK+BlendTree
+头部使用IK 身体根据头部高度做BlendTree（站蹲趴静态+动作）
+BlendShape网络同步优化（uint存储4个byte）
+角色网络同步/本地输入输出优化
+
+GraceChat：
+TIM好友关系（关注、取关、拉黑等）
+3D房间内邀请和踢人
+举报和封禁
+3D房间内角色状态网络同步（查看UI、挂机等）
+3D房间内更换角色Avatar效果（透明泡泡人+低模+高模+进度）
+TIM聊天页、消息通知
+聊天敏感词
+
+原生栈式UI框架
+原生右滑返回效果
+原生连续点击监听
+
+接入Webview和Giphy
+TIM发GIF、GIF缓存和GC处理
+TIM发图、图片格式、尺寸、meta信息等、缓存处理
+
+Haven：
+TIM相关功能在原生中的复刻（聊天、通知、拉黑、举报等）
+视频弹幕 BarrageRenderer
+
+AI Fantasy：
+Webview message hook
+AI API接入 消息SSE
+AI API供应商兜底
+API配置动态读取、加密解密
+接入StatSig、Firebase、MixPanel、字节火山推荐等
